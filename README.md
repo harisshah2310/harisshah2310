@@ -7,7 +7,7 @@
 
 - 👨‍🎓  I'm currently learning **Software Engineering**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, jQuery, UI/UX Designing**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, jQuery, UI/UX Designing, SEO, Git Hub**
 
 - 👀 I'm interested in **Travel, Video Games, Coding, Sports**
 
