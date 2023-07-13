@@ -13,8 +13,6 @@
 
 - 📫 How to reach me https://shah2310.github.io/portfolio_harisshah/
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/41781WE](https://bit.ly/41781WE)
-
 - 📄 Know about my experiences https://shah2310.github.io/portfolio_harisshah/#resume
 
 <h3 align="left">Connect with me:</h3>
