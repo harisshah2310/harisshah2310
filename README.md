@@ -11,7 +11,7 @@
 
 - 👀 I'm interested in **Travel, Video Games, Coding, Sports**
 
-- 📫 How to reach me [shahharis043@gmail.com](shahharis043@gmail.com)
+- 📫 How to reach me https://shah2310.github.io/portfolio_harisshah/
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/41781WE](https://bit.ly/41781WE)
 
