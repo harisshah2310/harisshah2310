@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris Shah</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">Front-End & Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisshah2310&label=Profile%20views&color=0e75b6&style=flat" alt="harisshah2310" /> </p>
 
