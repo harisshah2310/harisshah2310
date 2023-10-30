@@ -7,7 +7,7 @@
 
 - 👨‍🎓  I'm currently learning **Software Engineering**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, jQuery, UI/UX Designing, SEO, Git & Git Hub, XML, JSON, PHP, MYSQL(Database)**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, jQuery, UI/UX Designing, SEO, Git & Git Hub, XML, JSON, PHP, MYSQL(Database), Laravel, Wordpress**
 
 - 👀 I'm interested in **Travel, Video Games, Coding, Sports**
 
@@ -20,33 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-  
-<a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> </a>
-
-
-<a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Git-Hub" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40"/></a>
-
-<a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-
-<a href="https://www.w3schools.in/laravel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/></a>
-
-<a href="https://www.w3schools.in/wordpress" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/></a>
-
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> </a> <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Git-Hub" width="40" height="40"/> </a> <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40"/></a> <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://www.w3schools.in/laravel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/></a> <a href="https://www.w3schools.in/wordpress" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/></a>
 </p>
 
 
