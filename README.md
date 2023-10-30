@@ -28,9 +28,8 @@
 
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> </a>
 
-<a href="https://iconscout.com/icons/code" class="text-underline font-size-sm" target="_blank">Code</a> by <a href="https://iconscout.com/contributors/vorillaz" class="text-underline font-size-sm" target="_blank">Vorillaz</a>
 
 <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/> </a>
 
