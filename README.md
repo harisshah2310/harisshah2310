@@ -43,7 +43,7 @@
 
 <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 
-<a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"><img src="" alt="Laravel" width="40" height="40"/></a>
+<a href="https://www.w3schools.in/laravel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" height="40"/></a>
 
 <a href="https://www.w3schools.in/wordpress" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/></a>
 
