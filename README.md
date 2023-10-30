@@ -28,7 +28,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-<a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=icon+jquery&tbm=isch&hl=en&sa=X&ved=2ahUKEwjfo9Kzvp6CAxUxmycCHdSTBVQQrNwCKAB6BQgBEKcB&biw=1423&bih=783#imgrc=NA04GurfuWBeqM" alt="jQuery" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/jquery-icon/" alt="jQuery" width="40" height="40"/> </a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
